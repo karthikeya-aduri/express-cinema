@@ -13,5 +13,3 @@ Then open terminal inside express-cinema folder/directory and run this command f
 ```python3
 streamlit run app.py
 ```
-## Screenshots
-![image](./images/Screenshot-1.png)
